@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FD7C5E1A-CFE4-4FD5-A525-1EB1599A39AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Netshoot 下午4.57.23/Source/Netshoot.Target.cs">
+    <Files>
+      <File FileName="../Netshoot 下午4.57.23/Source/Netshoot.Target.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug Editor|Mac" />
+  <MonoDevelop.Ide.ItemProperties.Programs.UnrealBuildTool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
